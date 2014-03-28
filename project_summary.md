@@ -157,21 +157,44 @@ func main() {
 
 ## Images & Videos
 
+### SVGo
+
 * [Examples of SVGo](http://www.flickr.com/photos/ajstarks/sets/72157623441699483/) and related output like
 output from Layer Tennis Remixes, 
--- [Season 1](http://www.flickr.com/photos/ajstarks/sets/72157625428100068/), 
--- [Season 2](http://www.flickr.com/photos/ajstarks/sets/72157625302560593/) and 
--- [Season 3](http://www.flickr.com/photos/ajstarks/sets/72157624950756818/)
+[Season 1](http://www.flickr.com/photos/ajstarks/sets/72157625428100068/), 
+[Season 2](http://www.flickr.com/photos/ajstarks/sets/72157625302560593/) and 
+[Season 3](http://www.flickr.com/photos/ajstarks/sets/72157624950756818/)
 
 * Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures-with-svgo), along with 
 [workshop materials](https://speakerdeck.com/ajstarks/svgo-workshop)
 
+#### SVGo Blog posts
+
+* [AIGA Symbols](http://mindchunk.blogspot.com/2012/07/aiga-symbols.html)
+* [Raspi and SVGo](http://mindchunk.blogspot.com/2012/06/raspberry-pi-and-svgo-tools.html)
+* [Tumblr Grid](http://mindchunk.blogspot.com/2012/04/tumblr-grid.html)
+* [Documenting Code and Pictures](http://mindchunk.blogspot.com/2011/10/documenting-code-and-pictures.html)
+* [Stockproduct](http://mindchunk.blogspot.com/2011/08/stockproduct-comparisons-with-svg.html)
+* [Bulletgraphs](http://mindchunk.blogspot.com/2011/07/bullet-graphs.html)
+* [SVGo and Google Web Fonts](http://mindchunk.blogspot.com/2011/05/svgo-and-google-web-fonts.html)
+* [Mobile Market Share 2010](http://mindchunk.blogspot.com/2010/11/mobile-market-share-2010.html)
+* [Proportional maps, an alternative to pie charts](http://mindchunk.blogspot.com/2010/10/proportional-maps-alternative-to-pie.html)
+* [Font specimens with SVG](http://mindchunk.blogspot.com/2010/04/font-specimens-with-svg.html)
+* [Leaning flowers](http://mindchunk.blogspot.com/2010/03/leaning-flowers.html)
+
+* [Video showing an early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
+
+### OpenVG
 
 * [Samples from the OpenVG library](http://www.flickr.com/photos/ajstarks/sets/72157630913689774/)
+* [Related blog post](http://mindchunk.blogspot.com/2012/09/openvg-on-raspberry-pi.html)
+
+
+### Deck
 
 * The [Deck on Deck](https://speakerdeck.com/ajstarks/deck-a-go-package-for-presentations)
 See this [Flickr Set for Examples of Deck](http://www.flickr.com/photos/ajstarks/sets/72157634452348637/)
 
 * [Video describing an early deck client](http://vimeo.com/69357909)
-* [Video showing an early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
+
 
