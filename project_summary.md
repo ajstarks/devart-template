@@ -5,26 +5,25 @@
 
 ## Description
 
-This entry uses three separate projects that allow artists and programmers "make pictures" using the the Go programming language.  The projects are:
+This entry uses three separate projects that allow artists and coders to "make pictures" using the the Go programming language.  The projects are:
 
 * SVGo: a Go library for SVG generation
 * OpenVG: a high-level API to the OpenVG standard, developed on the Raspberry Pi
 * Deck: a Go package for making and serving scalable presentions using a standard markup language
 
-SVGo was created to automate the generation of SVG, while preserving the standards semantics and philosophy.
+SVGo was created to automate the generation of SVG, while preserving the standard SVG semantics and philosophy.
 SVGo is useful for rendering locally in a browser, in fact using a local server writter in Go, the artist/coder may work
 with code+picture interactively.
 
-OpenVG is a higher-level interface to the standard API, inspired by Processing and SVGo, it was designed to leverage the 
-GPU and get programmers to "get to the picture" quickly.  
+OpenVG is a higher-level interface to the standard API, designed to leverage the GPU and allow programmers to "get to the picture" quickly.  
 
 Deck was made to explore what makes a 
-compelling presentation, using a standard, lasting and portable markup language, not tied to a vendor. 
-Deck the minimal markup elements, and a strict percentage-based layout system.  
+compelling presentation, using a standard, lasting and portable markup language. 
+Deck uses minimal markup elements, with a strict percentage-based layout system.  
 Deck also explores the possibilities of machine-generated presentations, rendering slides from data.
 
 
-## Link to Prototype
+## Links
 
 * [SVGo: a Go library for SVG generation](http://github.com/ajstarks/svgo)
 * [OpenVG: a high-level API to the OpenVG standard, developed on the Raspberry Pi](http://github.com/ajstarks/openvg)
@@ -164,8 +163,7 @@ output from Layer Tennis Remixes,
 [Season 1](http://www.flickr.com/photos/ajstarks/sets/72157625428100068/), 
 [Season 2](http://www.flickr.com/photos/ajstarks/sets/72157625302560593/) and 
 [Season 3](http://www.flickr.com/photos/ajstarks/sets/72157624950756818/)
-
-* Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures-with-svgo), along with 
+* [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures-with-svgo), along with 
 [workshop materials](https://speakerdeck.com/ajstarks/svgo-workshop)
 
 #### SVGo Blog posts
@@ -182,7 +180,8 @@ output from Layer Tennis Remixes,
 * [Font specimens with SVG](http://mindchunk.blogspot.com/2010/04/font-specimens-with-svg.html)
 * [Leaning flowers](http://mindchunk.blogspot.com/2010/03/leaning-flowers.html)
 
-* [Video showing an early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
+
+[Video showing an early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
 
 ### OpenVG
 
@@ -192,9 +191,8 @@ output from Layer Tennis Remixes,
 
 ### Deck
 
-* The [Deck on Deck](https://speakerdeck.com/ajstarks/deck-a-go-package-for-presentations)
-See this [Flickr Set for Examples of Deck](http://www.flickr.com/photos/ajstarks/sets/72157634452348637/)
-
+* [The Deck on Deck](https://speakerdeck.com/ajstarks/deck-a-go-package-for-presentations)
+* [Flickr Set for Examples of Deck](http://www.flickr.com/photos/ajstarks/sets/72157634452348637/)
 * [Video describing an early deck client](http://vimeo.com/69357909)
 
 
