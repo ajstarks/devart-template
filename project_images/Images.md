@@ -1,4 +1,4 @@
-== SVGo Images ==
+# SVGo Images
 
 Examples of [SVGo](http://www.flickr.com/photos/ajstarks/sets/72157623441699483/) and related output like
 output from Layer Tennis Remixes, [Season 1](http://www.flickr.com/photos/ajstarks/sets/72157625428100068/), 
@@ -8,7 +8,7 @@ output from Layer Tennis Remixes, [Season 1](http://www.flickr.com/photos/ajstar
 Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures-with-svgo), along with 
 [workshop materials](https://speakerdeck.com/ajstarks/svgo-workshop)
 
-=== SVGo-related blog posts ===
+##  SVGo-related blog posts
 
 * http://mindchunk.blogspot.com/2012/07/aiga-symbols.html
 * ttp://mindchunk.blogspot.com/2012/06/raspberry-pi-and-svgo-tools.html
@@ -23,12 +23,12 @@ Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures
 * http://mindchunk.blogspot.com/2010/03/leaning-flowers.html
 
 
-== OpenVG ==
+# OpenVG
 
 [Samples from the OpenVG library](http://www.flickr.com/photos/ajstarks/sets/72157630913689774/)
 
 
-== Deck ==
+#  Deck
 
 The [Deck on Deck](https://speakerdeck.com/ajstarks/deck-a-go-package-for-presentations)
 
