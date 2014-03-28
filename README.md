@@ -1,4 +1,14 @@
-# DevArt Template
+# Programming Pictures with Go
+
+This entry uses three separate projects that allow artists and programmers to use code to "make pictures".
+The projects all use the Go programming language for coding.  The projects are:
+
+* [SVGo: a Go library for SVG generation](http://github.com/ajstarks/svgo)
+* [OpenVG: a high-level API to the OpenVG standard, developed on the Raspberry Pi](http://github.com/ajstarks/openvg)
+* [Deck: a Go package for making and serving scalable presentions using a standard markup language](github.com/ajstarks/deck)
+
+
+-----
 
 This repository is where you will populate your Project Page on the DevArt site. It is also where you will build your code and document your process. Your page on DevArt will change every time you make changes to your code and push this repository to GitHub, pending moderation by the DevArt team. You will be able to preview the changes on your Project Page on DevArt after you push to GitHub. All submissions in GitHub will need to be entered in English. 
 
