@@ -8,10 +8,10 @@ output from Layer Tennis Remixes, [Season 1](http://www.flickr.com/photos/ajstar
 Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures-with-svgo), along with 
 [workshop materials](https://speakerdeck.com/ajstarks/svgo-workshop)
 
-##  SVGo-related blog posts
+##  SVGo-related blog posts, with sample images
 
 * http://mindchunk.blogspot.com/2012/07/aiga-symbols.html
-* ttp://mindchunk.blogspot.com/2012/06/raspberry-pi-and-svgo-tools.html
+* http://mindchunk.blogspot.com/2012/06/raspberry-pi-and-svgo-tools.html
 * http://mindchunk.blogspot.com/2012/04/tumblr-grid.html
 * http://mindchunk.blogspot.com/2011/10/documenting-code-and-pictures.html
 * http://mindchunk.blogspot.com/2011/08/stockproduct-comparisons-with-svg.html
