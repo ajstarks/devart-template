@@ -181,7 +181,7 @@ output from Layer Tennis Remixes,
 * [Leaning flowers](http://mindchunk.blogspot.com/2010/03/leaning-flowers.html)
 
 
-[Video showing an early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
+ a Video showing an early version of SVGo https://www.youtube.com/watch?v=ze6O2Dj5gQ4
 
 ### OpenVG
 
