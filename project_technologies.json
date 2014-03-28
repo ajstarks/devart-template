@@ -7,7 +7,7 @@
             "Mac OS X", "Linux", "Windows", "raspberry pi"
         ],
         "toolkits": [
-            "Go standard library", "SVGo", "OpenVG"
+            "Go standard library", "SVGo", "OpenVG", "Go"
         ]
     },
     "themes": [
