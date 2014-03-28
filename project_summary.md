@@ -5,8 +5,7 @@
 
 ## Description
 
-This entry uses three separate projects that allow artists and programmers to use code to "make pictures".
-The projects all use the Go programming language for coding.  The projects are:
+This entry uses three separate projects that allow artists and programmers "make pictures" using the the Go programming language.  The projects are:
 
 * SVGo: a Go library for SVG generation
 * OpenVG: a high-level API to the OpenVG standard, developed on the Raspberry Pi
@@ -17,8 +16,12 @@ SVGo is useful for rendering locally in a browser, in fact using a local server 
 with code+picture interactively.
 
 OpenVG is a higher-level interface to the standard API, inspired by Processing and SVGo, it was designed to leverage the 
-GPU and get programmers to "get to the picture" quickly.  Deck was made to explore the requirements of what makes a 
-compelling presentation, using a standard, lasting and portable markup language, not tied to a vendor. Deck the minimal markup elements, and a strict percentage-based layout system.
+GPU and get programmers to "get to the picture" quickly.  
+
+Deck was made to explore what makes a 
+compelling presentation, using a standard, lasting and portable markup language, not tied to a vendor. 
+Deck the minimal markup elements, and a strict percentage-based layout system.  
+Deck also explores the possibilities of machine-generated presentations, rendering slides from data.
 
 
 ## Link to Prototype
