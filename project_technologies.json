@@ -4,7 +4,7 @@
             "Go standard library", "OpenVG", "SVG", "XML"
         ],
         "platforms": [
-            "Mac OS X", "Linux", "Windows"
+            "Mac OS X", "Linux", "Windows", "raspberry pi"
         ],
         "toolkits": [
             "Go standard library", "SVGo", "OpenVG"
