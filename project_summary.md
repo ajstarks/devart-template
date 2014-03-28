@@ -1,5 +1,4 @@
-# Project Title
-Programming Pictures with Go
+# Programming Pictures with Go
 
 ## Authors
 - Anthony Starks, http://github.com/ajstarks
@@ -153,12 +152,9 @@ func main() {
 }
 ```
 
-
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-
-Examples of [SVGo](http://www.flickr.com/photos/ajstarks/sets/72157623441699483/) and related output like
+[Examples of SVGo](http://www.flickr.com/photos/ajstarks/sets/72157623441699483/) and related output like
 output from Layer Tennis Remixes, [Season 1](http://www.flickr.com/photos/ajstarks/sets/72157625428100068/), 
 [Season 2](http://www.flickr.com/photos/ajstarks/sets/72157625302560593/) and 
 [Season 3](http://www.flickr.com/photos/ajstarks/sets/72157624950756818/)
@@ -172,6 +168,6 @@ Here is a [A Deck on SVGo](https://speakerdeck.com/ajstarks/programming-pictures
 The [Deck on Deck](https://speakerdeck.com/ajstarks/deck-a-go-package-for-presentations)
 See this [Flickr Set for Examples of Deck](http://www.flickr.com/photos/ajstarks/sets/72157634452348637/)
 
-[An early prototype of deck client](http://vimeo.com/69357909)
-[An early version of SVGo]()
+[An early deck client](http://vimeo.com/69357909)
+[An early version of SVGo](https://www.youtube.com/watch?v=ze6O2Dj5gQ4)
 
