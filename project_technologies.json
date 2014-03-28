@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "Go standard library", "OpenVG", "SVG", "XML"
+            "Go standard library", "OpenVG", "SVG", "XML", "golang"
         ],
         "platforms": [
             "Mac OS X", "Linux", "Windows", "raspberry pi"
