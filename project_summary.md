@@ -1,4 +1,4 @@
-# Programming Pictures with Go  (marked as complete)
+# Programming Pictures with Go
 
 ## Authors
 - Anthony Starks, http://github.com/ajstarks
