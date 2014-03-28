@@ -1,4 +1,4 @@
-# Programming Pictures with Go (marked as complete)
+# Programming Pictures with Go
 
 This entry uses three separate projects that allow artists and programmers to use the Go Programming Language for creating coding, building tools and making visualizatons. The projects are:
 
