@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "OpenVG", "SVG", "XML"
+            "Go standard library", "OpenVG", "SVG", "XML"
         ],
         "platforms": [
             "Mac OS X", "Linux", "Windows"
@@ -11,6 +11,7 @@
         ]
     },
     "themes": [
-        "Raspberry Pi", "vector graphics", "creative coding", "art+code", "XML", "markup", "design"
+        "Raspberry Pi", "vector graphics", "creative coding", "art+code", "XML", "markup", "design", "presentations",
+        "visualization", "data-driven", "code+pic"
     ]
 }
