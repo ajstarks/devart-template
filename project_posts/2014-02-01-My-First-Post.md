@@ -1,5 +1,8 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+# Programming Pictures with Go
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+See:
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+* [SVGo: a Go library for SVG generation](http://github.com/ajstarks/svgo)
+* [OpenVG: a high-level API to the OpenVG standard, developed on the Raspberry Pi](http://github.com/ajstarks/openvg)
+* [Deck: a Go package for making and serving scalable presentions using a standard markup language](github.com/ajstarks/deck)
+
