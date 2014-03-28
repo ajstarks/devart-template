@@ -1,16 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "OpenVG", "SVG", "XML"
         ],
         "platforms": [
-            "insert platforms"
+            "Mac OS X", "Linux", "Windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Go standard library", "SVGo", "OpenVG"
         ]
     },
     "themes": [
-        "insert themes"
+        "Raspberry Pi", "vector graphics", "creative coding", "art+code", "XML", "markup", "design"
     ]
 }
