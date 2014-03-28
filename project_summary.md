@@ -17,11 +17,10 @@ with code+picture interactively.
 
 OpenVG is a higher-level interface to the standard API, designed to leverage the GPU and allow programmers to "get to the picture" quickly.  
 
-Deck was made to explore what makes a 
-compelling presentation, using a standard, lasting and portable markup language. 
+Deck was made to explore what makes a compelling presentation, using a standard, lasting and portable markup language. 
 Deck uses minimal markup elements, with a strict percentage-based layout system.  
 Deck also explores the possibilities of machine-generated presentations, rendering slides from data.
-Also included is a RESTful API for upload, display, removal, and generation of slide content.
+Also included is a RESTful API for upload, play, stop, removal, and generation of slide content.
 
 
 ## Links
